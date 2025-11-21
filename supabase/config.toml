@@ -1,0 +1,4 @@
+project_id = "itdtalruhsjrjgyatpij"
+
+[functions.medical-terminology]
+verify_jwt = false
